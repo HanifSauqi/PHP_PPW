@@ -31,16 +31,16 @@ foreach ($anggotaKelompok as $anggota) {
 echo "\n";
 
 $kotaKKN = [
-    "Lampung",
-    "Riau",
+    "Ponororgo",
+    "Madiun",
     "Jambi",
-    "Bengkulu",
-    "Makassar",
-    "Kendari",
-    "Gorontalo",
+    "Surabaya",
+    "Riaur",
+    "Lampung",
+    "Nusa Tenggara Barat",
     "Samarinda",
     "Papua",
-    "Nusa Tenggara Barat"
+    "Malang"
 ];
 
 $namaDepan = str_split($namaPanggilan);
